@@ -1,2 +1,2 @@
 # JordansDemo
-A API search for Countries, States and Cities. Walmart 
+A API search for Countries, States and Cities. 
